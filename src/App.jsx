@@ -38,6 +38,7 @@ function App() {
   }
 
   console.log(projectsState);
+  console.log(projectsState.selectedProjectId);
 
   let content;
 
