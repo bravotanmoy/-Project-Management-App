@@ -1,6 +1,7 @@
 import Button from "./Button";
 
-export default function ProjectsSidebar({  onStartAddProject,
+export default function ProjectsSidebar({  
+    onStartAddProject,
     projects,
     onSelectProject,
     selectedProjectId,}) {
